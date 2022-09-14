@@ -8,7 +8,7 @@ I created this project to set up my version control system and integrated develo
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/2zVgspQ_s7A)
 
 # Development Environment
 
@@ -18,5 +18,5 @@ I used Python for the simplicity of the print statement to display the "Hello Wo
 
 # Useful Websites
 
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Real Python](https://realpython.com/python-print/)
+* [W3Schools](https://www.w3schools.com/python/ref_func_print.asp)
